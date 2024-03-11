@@ -17,7 +17,7 @@ const WhoWeR = () => {
     <div className="flex flex-row relative justify-center xl:justify-between">
         <div className="who bg-cover opacity-7 w-full h-auto absolute top-0 right-0 bottom-0 left-0"></div>
         <section className='flex flex-col p-4 py-16 justify-center items-center xl:items-start m-4 ml-20 mt-10 opacity-100 z-10'>
-            <h2 className='mb-10 text-[#144463] text-2xl font-bold w-52 p-2 rounded-3xl hover:bg-[#144463] duration-500'>WHO WE ARE</h2>
+            <h2 className='mb-10 text-[#144463] text-center text-2xl font-bold w-52 p-2 rounded-3xl hover:bg-[#144463] hover:text-[#EFF7F8] duration-500'>WHO WE ARE</h2>
             <h1 className='font-extrabold mb-10 text-[40px] text-[#6D8691]'>WE’RE SERIOUS ABOUT OUR BUSINESS</h1>
             <div className="flex flex-col justify-between mb-8">
             {
