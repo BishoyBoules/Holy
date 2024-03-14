@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/holy/static/css/main.87bda253.css",
+    "main.js": "/holy/static/js/main.f29ef4c1.js",
+    "static/js/453.78af0a2d.chunk.js": "/holy/static/js/453.78af0a2d.chunk.js",
+    "static/media/wall.jpg": "/holy/static/media/wall.49dbc8942c18e33cdc48.jpg",
+    "static/media/partners.jpeg": "/holy/static/media/partners.33e6b27e6466d15bb143.jpeg",
+    "static/media/person.png": "/holy/static/media/person.5a384b66969b7d357264.png",
+    "static/media/offer.jpeg": "/holy/static/media/offer.fa00759de87bd7c9e4c2.jpeg",
+    "static/media/logo.jpeg": "/holy/static/media/logo.930dae5d92b92c3aea56.jpeg",
+    "static/media/home.jpeg": "/holy/static/media/home.64450e3d13087d7919c5.jpeg",
+    "static/media/partner.png": "/holy/static/media/partner.e5c8d5199469f813462e.png",
+    "index.html": "/holy/index.html",
+    "main.87bda253.css.map": "/holy/static/css/main.87bda253.css.map",
+    "main.f29ef4c1.js.map": "/holy/static/js/main.f29ef4c1.js.map",
+    "453.78af0a2d.chunk.js.map": "/holy/static/js/453.78af0a2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87bda253.css",
+    "static/js/main.f29ef4c1.js"
+  ]
+}
