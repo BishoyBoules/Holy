@@ -1,0 +1,13 @@
+.home {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)), url('./assets/images/pests1.JPG');
+}
+
+.who {
+  background-image: url('./assets/images/wall.jpg');
+}
+
+.partners {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)), url('./assets/images/partners.jpeg');
+}
