@@ -46,7 +46,7 @@ const Navbar = ({showModalHandler}) => {
   return (
     <div className='flex flex-row fixed top-0 z-20 w-full bg-white md:justify-evenly sm:justify-between items-center p-4'>
       <section>
-        <img className='w-[70px] h-auto rounded-full' src={logo} alt='logo'/>
+        <img className='w-[70px] h-auto rounded-xl' src={logo} alt='logo'/>
       </section>
       <FontAwesomeIcon onMouseEnter={(e) => {
         e.stopPropagation();

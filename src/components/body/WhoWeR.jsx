@@ -6,9 +6,9 @@ const WhoWeR = () => {
     <div id='about' className="flex lg:flex-row flex-col py-4 relative justify-center">
         <div className="who bg-cover opacity-7 w-full h-auto absolute top-0 right-0 bottom-0 left-0"></div>
         <section className='flex flex-col p-4 py-16 justify-center items-center xl:items-start m-4 lg:ml-20 mt-10 opacity-100 z-10 lg:w-4/5'>
-            <h2 className='mb-10 text-[#144463] text-center text-2xl w-52 p-2 rounded-3xl hover:bg-[#144463] hover:text-[#EFF7F8] font-[1000] duration-700'>ABOUT US</h2>
-            <h1 className='font-extrabold mb-10 text-[40px] text-center lg:text-start px-3 text-[#6D8691]'>WE’RE SERIOUS ABOUT OUR BUSINESS</h1>
-            <div className="flex flex-col justify-between lg:mb-8 p-3 rounded-2xl font-bold hover:bg-[#144463] hover:text-[#EFF7F8] text-center lg:text-start duration-700">
+            <h2 className='mb-10 text-[#144463] lg:text-start text-center p-2 text-2xl w-52 font-[1000]'>ABOUT US</h2>
+            <h1 className='font-extrabold mb-10 text-[40px] text-center lg:text-start px-2 text-[#6D8691]'>WE’RE SERIOUS ABOUT OUR BUSINESS</h1>
+            <div className="flex flex-col justify-between lg:mb-8 p-2 rounded-2xl font-bold text-center lg:text-start">
             Holy Pest control isn’t just a service.<br/>
             We know that finding the right pest control firm is important 
             therefore, our professionals are well-versed in the latest tools and techniques and work closely with you to find “greener” solutions to your pest problems.<br/>

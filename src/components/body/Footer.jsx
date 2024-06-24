@@ -42,7 +42,7 @@ const Footer = () => {
           {
             links.map(({id, name, link, color}) => (
               <a href={link} target='_block' key={id} className='w-10 h-10 rounded-full lg:mx-5 sm:mr-2 sm:ml-0'>
-                <FontAwesomeIcon className={'w-10 h-10 p-0 hover:w-12 hover:h-12 duration-500 text-['+color+']'} icon={name}/>
+                <FontAwesomeIcon className={'w-10 h-10 p-0 cursor-pointer hover:w-12 hover:h-12 duration-500 text-['+color+']'} icon={name}/>
               </a>
             ))
           }

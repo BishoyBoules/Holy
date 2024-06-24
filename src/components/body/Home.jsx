@@ -26,7 +26,7 @@ const Home = () => {
     <div className="md:p-4 sm:p-1 flex lg:flex-row sm:flex-col relative justify-between items-center w-full">
         <div className="home bg-cover w-full h-auto absolute top-0 right-0 bottom-0 left-0"></div>
         <section className='flex flex-col md:p-4 sm:p-1 md:py-16 sm:py-4 justify-center lg:items-start items-center lg:text-start text-center lg:ml-20 sm:ml-0 mt-10 opacity-100 z-10'>
-            <h4 className='bg-[#6CC384] mb-10 text-[#EFF7F8] font-medium w-36 p-2 rounded-3xl hover:bg-[#144463] duration-500'>Welcome to Holy</h4>
+            <h4 className='bg-[#6CC384] mb-10 text-[#EFF7F8] font-medium w-36 p-2 rounded-3xl'>Welcome to Holy</h4>
             <h1 className='font-extrabold mb-10 text-[40px] text-white w-10/12'>Your Best Pest Control Solution is Finally Here</h1>
             <p className='lg:w-[600px] md:w-[400px] sm:w-[300px] lg:text-[20px] md:text-[30px] mb-10 text-white font-medium'>
             Everyone wants a happy home.
